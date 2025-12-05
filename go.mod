@@ -1,6 +1,6 @@
 module github.com/sdfwds4/go-zero-code-data
 
-go 1.23.6
+go 1.21
 
 require github.com/zeromicro/go-zero v1.9.3
 
